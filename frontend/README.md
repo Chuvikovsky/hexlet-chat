@@ -50,3 +50,6 @@ make build
 ```bash
 make start
 ```
+
+Перейдите по ссылке [http://127.0.0.1:5001/login](http://127.0.0.1:5001/login)
+
