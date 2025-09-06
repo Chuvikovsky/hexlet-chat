@@ -28,12 +28,12 @@ https://frontend-project-12-yvu1.onrender.com/
 
 Скопируйте репозиторий:
 ```bash
-git clone https://github.com/Chuvikovsky/frontend-project-12.git
+git clone https://github.com/Chuvikovsky/hexlet-chat.git
 ```
 
 Перейдите в папку frontend-project-12
 ```bash
-cd frontend-project-12
+cd hexlet-chat
 ```
 
 Установите зависимости
